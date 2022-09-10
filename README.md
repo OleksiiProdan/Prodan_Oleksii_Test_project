@@ -3,9 +3,9 @@ Demonstration Prodan_Oleksii_Test_project
 
 1. Exploratory testing and bug-reporting:
 
-      a. Test-data: [https://docs.google.com/spreadsheets/d/1ZBatNwnBW-RzUAaJU3dnfVwdIY3GQfop5PXwLz0r1jo/edit#gid=0]
+      a. Test-data: [link]
       
-      b. Bug-reports: [https://docs.google.com/spreadsheets/d/1ZBatNwnBW-RzUAaJU3dnfVwdIY3GQfop5PXwLz0r1jo/edit#gid=822397682]
+      b. Bug-reports: [link]
       
 2. UI testing:
 
