@@ -5,7 +5,7 @@ Demonstration Prodan_Oleksii_Test_project
 
       a. Test-data: [[link](https://docs.google.com/spreadsheets/d/11LguX9HZoO0MtDe77FZcemjlXJOlZll1ar2rONesWoQ/edit?usp=sharing)]
       
-      b. Bug-reports: [[link]https://docs.google.com/spreadsheets/d/1ZBatNwnBW-RzUAaJU3dnfVwdIY3GQfop5PXwLz0r1jo/edit#gid=822397682]
+      b. Bug-reports: [https://docs.google.com/spreadsheets/d/1ZBatNwnBW-RzUAaJU3dnfVwdIY3GQfop5PXwLz0r1jo/edit#gid=822397682]
       
 2. UI testing:
 
