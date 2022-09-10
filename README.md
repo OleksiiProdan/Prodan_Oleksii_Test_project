@@ -3,7 +3,7 @@ Demonstration Prodan_Oleksii_Test_project
 
 1. Exploratory testing and bug-reporting:
 
-      a. Test-data: [link]
+      a. Test-data: [[link](https://docs.google.com/spreadsheets/d/1ZBatNwnBW-RzUAaJU3dnfVwdIY3GQfop5PXwLz0r1jo/edit?usp=sharing)]
       
       b. Bug-reports: [link]
       
