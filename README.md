@@ -9,7 +9,7 @@ Demonstration Prodan_Oleksii_Test_project
       
 2. UI testing:
 
-       a. Test cases [[link](https://docs.google.com/spreadsheets/d/1ZBatNwnBW-RzUAaJU3dnfVwdIY3GQfop5PXwLz0r1jo/edit?usp=sharing)]
+       a. Test cases [link]
        
        b. Automation Cypress.io [link]
        
